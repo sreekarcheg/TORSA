@@ -1,0 +1,3 @@
+To resolve dependencies do:
+$cd /TORSA
+$sudo pip install pycrypto
