@@ -1,0 +1,6 @@
+{
+  "name": "TORSA",
+  "tagline": "This application implements the second generation onion routing protocol using a peer-to-peer architecture. ",
+  "body": "TORSA\r\n\r\nThis application implements the second generation onion routing protocol using a peer\r\n-to-peer architecture. Each instance of the router functions as a TOR router that is ready to be deployed, with a Neighbor Discovery Protocol in each. AES(Symmetric Key Encryption Algorithms) are used for encryption.\r\n\r\nRequires:\r\nPycrypto (https://www.dlitz.net/software/pycrypto/)\r\n\r\nCheck src directory for source code and instructions on running.\r\nCheck DOCUMENTATION directory for Report and Presentation.\r\nCheck RESULTS directory for results of demo.\r\n\r\n*****************************CS3041 Project by Sreekar R and Akshita M**********************************",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
