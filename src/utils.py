@@ -1,6 +1,6 @@
 '''
-Authors: Sreekar Reddy, Akshita Mittel, Surya Teja Chavali
-Contact: [cs13b1008, cs13b1028, cs13b1040]@iith.ac.in
+Authors: Sreekar Reddy, Akshita Mittel
+Contact: [cs13b1008, cs13b1028]@iith.ac.in
 License: MIT License
 '''
 
